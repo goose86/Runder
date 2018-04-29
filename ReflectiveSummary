@@ -1,0 +1,9 @@
+Runder is an interactive website that not only allows users to decide which ski runs are 
+the best fit for them, it also gives them information such as chairlifts to take, which 
+resort the runs are at and what type of terrain the runs are located. The is a user-friendly 
+website that is simple to use and is also a great safety tool as users can decide the 
+difficulty without accidentally “running” into a double-black diamond. 
+
+Runder was initially created in Microsoft MySQL Workbench which we then transferred to 
+Westminster’s Cerberus server. From there, we completed the user-interface using HTML 
+and PHP in Adobe Dreamweaver. 
